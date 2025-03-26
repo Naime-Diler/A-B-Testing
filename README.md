@@ -1,4 +1,4 @@
-**Unabhängiger t-Test für Mittelwerte: A/B-Test zur Analyse der Gebotsstrategien – Average Bidding vs. Maximum Bidding**
+# Unabhängiger t-Test für Mittelwerte: A/B-Test zur Analyse der Gebotsstrategien – Average Bidding vs. Maximum Bidding
 Ein Unternehmen hat eine neue Gebotsstrategie namens „Average Bidding“ als Alternative zur bestehenden „Maximum Bidding“-Methode eingeführt. Es wurde entschieden, diese neue Methode zu testen, um zu überprüfen, ob „Average Bidding“ zu höheren Conversions führt als „Maximum Bidding“. Der A/B-Test läuft seit einem Monat, und nun sollen die Ergebnisse dieses Tests analysiert werden. Der maßgebliche Erfolgsmesser ist die „Kauf“-Conversion (Purchase). Daher sollte die statistische Analyse auf der „Purchasemetrix“ basieren.
 
 **Datensatzbeschreibung**
